@@ -7,3 +7,8 @@
 + JS
 + CSS
 
+# Install 
+
+по пути ` Kurs/kurs.sql ` импортировать sql файл в OpenServer.
+
+Запустить через консольную комманду ` php -S localhost:8000 -t public `
